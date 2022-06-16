@@ -1,0 +1,4 @@
+Number of lines mentioned by the user : 3
+hii
+hello
+wel

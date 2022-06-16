@@ -1,0 +1,5 @@
+Words count in first file is : 2
+The number words count in second file is : 1
+Lines count in first file is : 1
+Lines count in second file is : 1
+Both files are not equal!!
